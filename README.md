@@ -1,175 +1,180 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Satya Prem</h1>
+<h3 align="center">Full Stack Developer | Software Engineering Student | AI/ML Enthusiast</h3>
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20There,%20I'm%20Satya%20Prem%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20GATE%202026%20Qualified&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Bireena+Medico+%40+Bireena+Infotech;Python+%7C+Flask+%7C+AI%2FML;GATE+2026+Qualified+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
 
-<!-- Typing Animation -->
-<a href="https://github.com/SATYA-PREM">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+(MERN+%2B+Python);Building+Bireena+Medico+-+Clinic+Management+App;AI+Recruitment+Automation+%7C+Machine+Learning;Turning+Ideas+Into+Scalable+Web+Solutions" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/satya-prem-3852033A9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:satyaprem619@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SATYA-PREM" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Replace # with your actual portfolio link -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=SATYA-PREM&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/SATYA-PREM?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
-<img src="https://img.shields.io/badge/GATE%202026-Qualified-success?style=for-the-badge&logo=googlescholar&logoColor=white" alt="gate"/>
+### 🚀 About Me
 
-</div>
+- 🎓 B.Tech CSE student at **Shri Ram Institute of Technology, Jabalpur** (CGPA 8.1) — 2023–2027
+- 💼 Currently working as a **Full Stack Developer Intern** at **Bireena Infotech**, building *Bireena Medico* (hospital & medical management system)
+- 🧠 Interested in **AI/ML**, scalable web apps, and clean system design
+- ✅ Qualified **GATE 2026**
+- 🌐 Globally ranked **2629** in **TCS CodeVita Season 13**
+- 📫 Reach me at **satyaprem619@gmail.com**
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+### 🛠️ Tech Stack
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,react,html,css,tailwind,nodejs,express,flask,fastapi,mysql,mongodb,git,github,vscode,wordpress,figma,aws&theme=dark" />
+</p>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212750996-938a5a71-a2b7-462d-9954-f4e4b842fcb5.gif">
+| Category | Technologies |
+|---|---|
+| **Languages** | Java, Python, JavaScript, C++, C |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Backend & APIs** | Node.js, Express.js, Flask, FastAPI, REST APIs, OAuth 2.0, JWT |
+| **Databases** | MySQL, MongoDB |
+| **Cloud** | AWS Cloud Practitioner *(Learning)* |
+| **AI/ML** | Scikit-learn, Machine Learning Basics |
+| **Tools & Platforms** | Git, GitHub, VS Code, WordPress, Shopify, Figma, Canva |
+| **Core CS** | DSA, OOP, DBMS, Operating Systems, Computer Networks, Agile |
 
-- 🎓 **B.Tech CSE** student at Shri Ram Institute of Technology, Jabalpur *(CGPA 8.1)*
-- 💼 Currently working as a **Full Stack Developer Intern** at **Bireena Infotech**, building *Bireena Medico* — a hospital & clinic management system with Razorpay payments integration
-- 🌱 Exploring **AI/ML**, building an **AI Recruitment Automation System** ([LookoutAI.io](#))
-- 🏆 Globally ranked **2629** in **TCS CodeVita Season 13**
-- ☁️ Completed **AWS Cloud Foundations** training badge
-- 📍 Based in **Jabalpur, Madhya Pradesh, India**
-- ⚡ Fun fact: I've shipped **3+ live professional websites** for real clients
+---
 
-<br clear="right"/>
+### 💼 Internship Experience
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+**Full Stack Developer Intern — Bireena Infotech** | *April 2026 – Present*
+- Building **Bireena Medico**, a hospital & medical management system
+- Developing full-stack modules for patient records, appointments, billing, and authentication
+- Integrating backend APIs for real-time data management
 
-## 🛠️ Tech Stack
+**Web Development Intern — Yashi IT Services** | *Aug 2025 – Sept 2025*
+- Built responsive, user-friendly web pages using HTML, CSS, JavaScript, and Tailwind CSS
+- Customized and maintained Shopify & WordPress sites — theme editing, plugins, layout optimization
 
-<div align="center">
+**Cybersecurity & Networking Virtual Intern — Cisco** | *2024 & 2025*
+- Completed virtual training in cybersecurity fundamentals and networking
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c&theme=dark" />
+---
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&theme=dark" />
-
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,py&theme=dark" />
-
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,git,github,vscode&theme=dark" />
-
-### Platforms
-<img src="https://skillicons.dev/icons?i=wordpress,shopify,figma,vscode&theme=dark" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SATYA-PREM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-PREM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA-PREM&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SATYA-PREM&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
-## 💼 Featured Projects
+### 📂 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🏥 Bireena Medico
-Full-stack clinic management system with **React/Vite + Node.js/Express/MongoDB**, featuring Razorpay online payments, secure server-side order verification, and print-ready PDF invoices.
-
-`React` `Node.js` `MongoDB` `Razorpay`
-
-</td>
-<td width="50%">
-
-### 🤖 LookoutAI.io
-AI-powered recruitment automation platform to source, screen, and hire candidates faster — *"Hire Smarter. Hire Faster. With AI."*
-
-`AI/ML` `Automation` `Recruitment Tech`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 CodeForCareer
-Full-stack e-learning platform with authentication, course management, and an interactive dashboard built in React.
-
-`React` `Node.js` `REST APIs`
-
-</td>
-<td width="50%">
-
-### 🏨 EHR / Hospital Management System
-Digital health record system managing patient data, appointments, and billing with role-based access control.
-
-`React` `Node.js` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛡️ Fake Bank APK Detector
-Integrated **VirusTotal** & **MobSF** APIs to detect suspicious permissions and flag malicious banking apps, with web + mobile scan interfaces.
-
-`Security` `VirusTotal API` `MobSF`
-
-</td>
-<td width="50%">
-
-### 🌿 Sampada Herbs & Spices
-Fully responsive e-commerce style website showcasing herbs, spices, and natural wellness products.
-
-`Web Design` `Responsive UI`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <a href="#" target="_blank">
+        <!-- Replace with your project screenshot -->
+        <img src="https://via.placeholder.com/500x280.png?text=CodeForCareer+Screenshot" width="100%" />
+      </a>
+      <h3>🎓 E-Learning Platform (CodeForCareer)</h3>
+      Full-stack e-learning platform with authentication, course management, and a student dashboard. React frontend integrated with backend APIs and a database, built for a smooth, responsive user experience.
+      <br/><br/>
+      <b>Tech:</b> React, Node.js, Express, MongoDB
+      <br/>
+      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
+    </td>
+    <td width="50%">
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/500x280.png?text=Medical+Record+System+Screenshot" width="100%" />
+      </a>
+      <h3>🏥 Medical Record System (EHR)</h3>
+      Digital health record system to securely manage patient data, with RESTful APIs for appointments, billing, and records — built with a focus on privacy and role-based access.
+      <br/><br/>
+      <b>Tech:</b> React, Node.js, MySQL
+      <br/>
+      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/500x280.png?text=Fake+Bank+APK+Detector+Screenshot" width="100%" />
+      </a>
+      <h3>🛡️ Fake Bank APK Detector</h3>
+      Security tool that integrates VirusTotal and MobSF APIs to analyze APK files, detect suspicious permissions, and flag potentially malicious banking apps, with both web and mobile interfaces.
+      <br/><br/>
+      <b>Tech:</b> React, Python/Flask, VirusTotal API, MobSF
+      <br/>
+      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
+    </td>
+    <td width="50%">
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/500x280.png?text=LookoutAI.io+Screenshot" width="100%" />
+      </a>
+      <h3>🤖 LookoutAI.io</h3>
+      AI-powered recruitment automation platform to source, screen, and hire faster. "Hire Smarter. Hire Faster. With AI."
+      <br/><br/>
+      <b>Tech:</b> React, Python/Flask, AI/ML
+      <br/>
+      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/500x280.png?text=Sampada+Herbs+%26+Spices+Screenshot" width="100%" />
+      </a>
+      <h3>🌿 Sampada Herbs & Spices</h3>
+      Fully responsive e-commerce style website showcasing herbs, spices, and natural wellness products.
+      <br/><br/>
+      <b>Tech:</b> HTML, CSS, JavaScript
+      <br/>
+      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
+    </td>
+    <td width="50%">
+      <!-- Add a 6th project here to keep the grid even, or delete this cell -->
+    </td>
+  </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+---
 
-## 📈 Contribution Graph
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-PREM&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYA-PREM&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-PREM&layout=compact&theme=radical" height="165" />
+</p>
 
-<!--
-🐍 Snake animation (contribution graph as a snake game) — to enable it:
-1. Create a repo named exactly: SATYA-PREM/SATYA-PREM (your profile repo)
-2. Add a GitHub Action using Platane/snk, e.g. `.github/workflows/snake.yml`
-3. Once it runs, replace the placeholder below with your generated snake SVG URL:
-   https://github.com/SATYA-PREM/SATYA-PREM/blob/output/github-contribution-grid-snake.svg
--->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation placeholder — replace with your generated snake svg once the Action runs"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA-PREM&theme=radical" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SATYA-PREM&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
-## 📫 Let's Connect
+### 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SATYA-PREM/SATYA-PREM/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satya-prem-3852033A9)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SATYA-PREM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyaprem619@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-+91_9931798085-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919931798085)
+> ℹ️ The snake animation above needs a one-time GitHub Actions setup (see below) — it won't render until you add the workflow to this repo.
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+### 🏆 Achievements
 
-<div align="center">
-<i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i>
-</div>
+- ✅ Qualified **GATE 2026**
+- 🌐 Globally ranked **2629** in **TCS CodeVita Season 13**
+- 🎖️ Completed **AWS Cloud Foundations Training** Badge
+- 🚀 Delivered **3+ professional websites** for clients
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SATYA-PREM&color=blue&style=flat" alt="profile views" />
+</p>
