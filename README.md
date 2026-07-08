@@ -156,9 +156,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-PREM&theme=tokyo-night&hide_border=true"/>
-</p>
+
 ---
 <p align="center">
   <br/><br/>
