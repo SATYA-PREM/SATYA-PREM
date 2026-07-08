@@ -76,7 +76,7 @@
     <td width="50%">
       <a href="#" target="_blank">
         <!-- Replace with your project screenshot -->
-        <img src=".code4career.png" width="100%" />
+        <img src="./code4career.png" width="100%" />
       </a>
       <h3>🎓 E-Learning Platform (CodeForCareer)</h3>
       Full-stack e-learning platform with authentication, course management, and a student dashboard. React frontend integrated with backend APIs and a database, built for a smooth, responsive user experience.
