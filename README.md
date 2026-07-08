@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satya Prem</h1>
+<img width="932" height="212" alt="image" src="https://github.com/user-attachments/assets/3f7991fb-7c09-4840-8e58-0bc515daee2f" /><h1 align="center">Hi 👋, I'm Satya Prem</h1>
 <h3 align="center">Full Stack Developer | Software Engineering Student | AI/ML Enthusiast</h3>
 
 <p align="center">
@@ -154,16 +154,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SATYA-PREM&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 </p>
-
-
-
----
-<p align="center">
-  <br/><br/>
-  <a href="https://leetcode.com/u/SATYA-PREM/">
-    <img src="https://leetcard.jacoblin.cool/SATYA-PREM?theme=dark&font=Karma&ext=heatmap" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-PREM&theme=tokyo-night&hide_border=true"/>
 </p>
+
+
 ---
 ### 🏆 Achievements
 
