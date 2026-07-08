@@ -144,7 +144,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SATYA-PREM/SATYA-PREM/output/metrics.svg" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYA-PREM&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-PREM&layout=compact&theme=radical" height="165" />
 </p>
 
@@ -155,13 +155,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SATYA-PREM&theme=radical&no-frame=true&row=1&column=6" />
 </p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SATYA-PREM/SATYA-PREM/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 
 ---
 
