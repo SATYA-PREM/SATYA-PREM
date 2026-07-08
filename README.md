@@ -76,14 +76,14 @@
     <td width="50%">
       <a href="#" target="_blank">
         <!-- Replace with your project screenshot -->
-        <img src="https://via.placeholder.com/500x280.png?text=CodeForCareer+Screenshot" width="100%" />
+        <img src=".code4career.png" width="100%" />
       </a>
       <h3>🎓 E-Learning Platform (CodeForCareer)</h3>
       Full-stack e-learning platform with authentication, course management, and a student dashboard. React frontend integrated with backend APIs and a database, built for a smooth, responsive user experience.
       <br/><br/>
       <b>Tech:</b> React, Node.js, Express, MongoDB
       <br/>
-      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
+      🔗 <a href="[#](https://codeforcareer.vercel.app/)" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/Code4career" target="_blank">Source</a>
     </td>
     <td width="50%">
       <a href="#" target="_blank">
