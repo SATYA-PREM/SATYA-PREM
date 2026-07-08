@@ -83,7 +83,7 @@
       <br/><br/>
       <b>Tech:</b> React, Node.js, Express, MongoDB
       <br/>
-      🔗 <a href="[#](https://codeforcareer.vercel.app/)" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/Code4career" target="_blank">Source</a>
+      🔗 <a href="https://codeforcareer.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/Code4career" target="_blank">Source</a>
     </td>
     <td width="50%">
       <a href="#" target="_blank">
@@ -144,7 +144,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SATYA-PREM&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://raw.githubusercontent.com/SATYA-PREM/SATYA-PREM/output/metrics.svg" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-PREM&layout=compact&theme=radical" height="165" />
 </p>
 
@@ -162,7 +162,6 @@
   <img src="https://raw.githubusercontent.com/SATYA-PREM/SATYA-PREM/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ℹ️ The snake animation above needs a one-time GitHub Actions setup (see below) — it won't render until you add the workflow to this repo.
 
 ---
 
