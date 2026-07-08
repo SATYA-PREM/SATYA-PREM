@@ -74,8 +74,7 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="#" target="_blank">
-        <!-- Replace with your project screenshot -->
+      <a href="https://codeforcareer.vercel.app/" target="_blank">
         <img src="./code4career.png" width="100%" />
       </a>
       <h3>🎓 E-Learning Platform (CodeForCareer)</h3>
@@ -144,20 +143,30 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SATYA-PREM&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-PREM&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYA-PREM&show_icons=true&theme=radical&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-PREM&layout=compact&theme=radical&cache_seconds=1800" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA-PREM&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA-PREM&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SATYA-PREM&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SATYA-PREM&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-PREM&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
-
+<p align="center">
+  <br/><br/>
+  <a href="https://leetcode.com/u/SATYA-PREM/">
+    <img src="https://leetcard.jacoblin.cool/SATYA-PREM?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
+---
 ### 🏆 Achievements
 
 - ✅ Qualified **GATE 2026**
