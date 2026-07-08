@@ -1,4 +1,4 @@
-<img width="932" height="212" alt="image" src="https://github.com/user-attachments/assets/3f7991fb-7c09-4840-8e58-0bc515daee2f" /><h1 align="center">Hi 👋, I'm Satya Prem</h1>
+<h1 align="center">Hi 👋, I'm Satya Prem</h1>
 <h3 align="center">Full Stack Developer | Software Engineering Student | AI/ML Enthusiast</h3>
 
 <p align="center">
