@@ -96,7 +96,7 @@
   <b>Tech:</b> React, Node.js, Express.js, MongoDB
   <br/>
   🔗 <a href="https://hospital-management-system-five-khaki.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp;
-  <a href="https://github.com/SATYA-PREM/Hospital-management-system" target="_blank">Source</a>
+  <a href="https://github.com/SATYA-PREM/BIREENA-MEDICO" target="_blank">Source</a>
 </td>
     
   </tr>
