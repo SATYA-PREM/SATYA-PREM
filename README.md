@@ -83,57 +83,69 @@
       <b>Tech:</b> React, Node.js, Express, MongoDB
       <br/>
       🔗 <a href="https://codeforcareer.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/Code4career" target="_blank">Source</a>
-    </td>
+    </td>   
     <td width="50%">
-      <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/500x280.png?text=Medical+Record+System+Screenshot" width="100%" />
-      </a>
-      <h3>🏥 Medical Record System (EHR)</h3>
-      Digital health record system to securely manage patient data, with RESTful APIs for appointments, billing, and records — built with a focus on privacy and role-based access.
-      <br/><br/>
-      <b>Tech:</b> React, Node.js, MySQL
-      <br/>
-      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
-    </td>
+      <!-- Add a 6th project here to keep the grid even, or delete this cell -->
+   
+  <a href="#" target="_blank">
+    <img src="./bireena.png" width="100%" />
+  </a>
+  <h3>🏥 Bireena Medico</h3>
+  A full-stack Hospital Management System designed to streamline healthcare operations with secure patient records, appointment scheduling, doctor management, pharmacy, billing, and administrative dashboards.
+  <br/><br/>
+  <b>Tech:</b> React, Node.js, Express.js, MongoDB
+  <br/>
+  🔗 <a href="https://hospital-management-system-five-khaki.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp;
+  <a href="https://github.com/SATYA-PREM/Hospital-management-system" target="_blank">Source</a>
+</td>
+    
   </tr>
   <tr>
     <td width="50%">
       <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/500x280.png?text=Fake+Bank+APK+Detector+Screenshot" width="100%" />
+        <img src="./apk.png" width="100%" />
       </a>
       <h3>🛡️ Fake Bank APK Detector</h3>
       Security tool that integrates VirusTotal and MobSF APIs to analyze APK files, detect suspicious permissions, and flag potentially malicious banking apps, with both web and mobile interfaces.
       <br/><br/>
       <b>Tech:</b> React, Python/Flask, VirusTotal API, MobSF
       <br/>
-      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
+      🔗 <a href="https://fake-banking-apk-detector.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/FAKE-BANKING-APK-DETECTOR" target="_blank">Source</a>
     </td>
     <td width="50%">
       <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/500x280.png?text=LookoutAI.io+Screenshot" width="100%" />
+        <img src="./look.png" width="100%" />
       </a>
       <h3>🤖 LookoutAI.io</h3>
       AI-powered recruitment automation platform to source, screen, and hire faster. "Hire Smarter. Hire Faster. With AI."
       <br/><br/>
       <b>Tech:</b> React, Python/Flask, AI/ML
       <br/>
-      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
+      🔗 <a href="https://lookoutai.io/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/LOOKOUT-AI" target="_blank">Source</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/500x280.png?text=Sampada+Herbs+%26+Spices+Screenshot" width="100%" />
+        <img src="./SAMPADA.png" width="100%" />
       </a>
       <h3>🌿 Sampada Herbs & Spices</h3>
       Fully responsive e-commerce style website showcasing herbs, spices, and natural wellness products.
       <br/><br/>
-      <b>Tech:</b> HTML, CSS, JavaScript
+      <b>Tech:</b> HTML, CSS, JavaScript,Wordpress,Elementor
       <br/>
-      🔗 <a href="#" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM" target="_blank">Source</a>
+      🔗 <a href="https://sampadastore.shop/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://sampadastore.shop/" target="_blank">Source</a>
     </td>
-    <td width="50%">
-      <!-- Add a 6th project here to keep the grid even, or delete this cell -->
+ <td width="50%">
+      <a href="#" target="_blank">
+        <img src="./ehr.png" width="100%" />
+      </a>
+      <h3>🏥 Medical Record System (EHR) with Ayush API</h3>
+      Digital health record system to securely manage patient data, with RESTful APIs for appointments, billing, and records — built with a focus on privacy and role-based access.
+      <br/><br/>
+      <b>Tech:</b> React, Node.js, MySQL
+      <br/>
+      🔗 <a href="https://sih-25-namaste.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/SIH25-EHR-SYSTEM" target="_blank">Source</a>
     </td>
   </tr>
 </table>
