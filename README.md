@@ -1,3 +1,8 @@
+<!-- BANNER (added at the top) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Satya%20Prem&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Satya Prem</h1>
 <h3 align="center">Full Stack Developer | Software Engineering Student | AI/ML Enthusiast</h3>
 
@@ -15,7 +20,6 @@
   <a href="https://github.com/SATYA-PREM" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Replace # with your actual portfolio link -->
   <a href="https://satya-prem.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -26,11 +30,12 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech CSE student at **Shri Ram Institute of Technology, Jabalpur** (CGPA 8.1) — 2023–2027
-- 💼 Currently working as a **Full Stack Developer Intern** at **Bireena Infotech**, building *Bireena Medico* (hospital & medical management system)
-- 🧠 Interested in **AI/ML**, scalable web apps, and clean system design
-- ✅ Qualified **GATE 2026**
-- 🌐 Globally ranked **2629** in **TCS CodeVita Season 13**
-- 📫 Reach me at **satyaprem619@gmail.com**
+- 💼 Currently working as an **AI/ML Virtual Intern** at **Infosys Springboard** (August 2026 - Present), focusing on an AI-Driven Product Assistant project.
+- 💼 Previously worked as a **Full Stack Developer Intern** at **Bireena Infotech** (April 2026 – July 2026), building *Bireena Medico* (hospital & medical management system).
+- 🧠 Interested in **AI/ML**, scalable web apps, and clean system design.
+- ✅ Qualified **GATE 2026**.
+- 🌐 Globally ranked **2629** in **TCS CodeVita Season 13**.
+- 📫 Reach me at **satyaprem619@gmail.com**.
 
 ---
 
@@ -55,17 +60,20 @@
 
 ### 💼 Internship Experience
 
-**Full Stack Developer Intern — Bireena Infotech** | *April 2026 – Present*
-- Building **Bireena Medico**, a hospital & medical management system
-- Developing full-stack modules for patient records, appointments, billing, and authentication
-- Integrating backend APIs for real-time data management
+**AI/ML Virtual Intern — Infosys Springboard** | *August 2026 – Present*
+- Working on an **AI-Driven Product Assistant** project focused on customer feedback analysis, product planning, and requirements generation.
+
+**Full Stack Developer Intern — Bireena Infotech** | *April 2026 – July 2026*
+- Developed **Bireena Medico**, a hospital & medical management system.
+- Built full-stack modules for patient records, appointments, billing, and authentication.
+- Integrated backend APIs for real-time data management.
 
 **Web Development Intern — Yashi IT Services** | *Aug 2025 – Sept 2025*
-- Built responsive, user-friendly web pages using HTML, CSS, JavaScript, and Tailwind CSS
-- Customized and maintained Shopify & WordPress sites — theme editing, plugins, layout optimization
+- Built responsive, user-friendly web pages using HTML, CSS, JavaScript, and Tailwind CSS.
+- Customized and maintained Shopify & WordPress sites — theme editing, plugins, layout optimization.
 
-**Cybersecurity & Networking Virtual Intern — Cisco** | *2024 & 2025*
-- Completed virtual training in cybersecurity fundamentals and networking
+**Cybersecurity & Networking Virtual Intern — Cisco** | *2024, 2025, & 2026*
+- Completed virtual training in cybersecurity fundamentals, networking, and artificial intelligence.
 
 ---
 
@@ -85,22 +93,30 @@
       🔗 <a href="https://codeforcareer.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/Code4career" target="_blank">Source</a>
     </td>   
     <td width="50%">
-      <!-- Add a 6th project here to keep the grid even, or delete this cell -->
-   
-  <a href="#" target="_blank">
-    <img src="./bireena.png" width="100%" />
-  </a>
-  <h3>🏥 Bireena Medico</h3>
-  A full-stack Hospital Management System designed to streamline healthcare operations with secure patient records, appointment scheduling, doctor management, pharmacy, billing, and administrative dashboards.
-  <br/><br/>
-  <b>Tech:</b> React, Node.js, Express.js, MongoDB
-  <br/>
-  🔗 <a href="https://hospital-management-system-five-khaki.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp;
-  <a href="https://github.com/SATYA-PREM/BIREENA-MEDICO" target="_blank">Source</a>
-</td>
-    
+      <a href="#" target="_blank">
+        <img src="./bireena.png" width="100%" />
+      </a>
+      <h3>🏥 Bireena Medico</h3>
+      A full-stack Hospital Management System designed to streamline healthcare operations with secure patient records, appointment scheduling, doctor management, pharmacy, billing, and administrative dashboards.
+      <br/><br/>
+      <b>Tech:</b> React, Node.js, Express.js, MongoDB
+      <br/>
+      🔗 <a href="https://hospital-management-system-five-khaki.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/SATYA-PREM/BIREENA-MEDICO" target="_blank">Source</a>
+    </td>
   </tr>
   <tr>
+    <td width="50%">
+      <a href="#" target="_blank">
+        <img src="./ehr.png" width="100%" />
+      </a>
+      <h3>🏥 Medical Record System (EHR) with Ayush API</h3>
+      Digital health record system to securely manage patient data, with RESTful APIs for appointments, billing, and records. Integrated with AYUSH disease records for comprehensive health management, built with a focus on privacy and role-based access.
+      <br/><br/>
+      <b>Tech:</b> React, Node.js, MySQL
+      <br/>
+      🔗 <a href="https://sih-25-namaste.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/SIH25-EHR-SYSTEM" target="_blank">Source</a>
+    </td>
     <td width="50%">
       <a href="#" target="_blank">
         <img src="./apk.png" width="100%" />
@@ -112,6 +128,19 @@
       <br/>
       🔗 <a href="https://fake-banking-apk-detector.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/FAKE-BANKING-APK-DETECTOR" target="_blank">Source</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="#" target="_blank">
+        <img src="./SAMPADA.png" width="100%" />
+      </a>
+      <h3>🌿 Sampada Herbs & Spices</h3>
+      Fully responsive e-commerce style website showcasing herbs, spices, and natural wellness products.
+      <br/><br/>
+      <b>Tech:</b> HTML, CSS, JavaScript, WordPress, Elementor
+      <br/>
+      🔗 <a href="https://sampadastore.shop/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://sampadastore.shop/" target="_blank">Source</a>
+    </td>
     <td width="50%">
       <a href="#" target="_blank">
         <img src="./look.png" width="100%" />
@@ -122,30 +151,6 @@
       <b>Tech:</b> React, Python/Flask, AI/ML
       <br/>
       🔗 <a href="https://lookoutai.io/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/LOOKOUT-AI" target="_blank">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="#" target="_blank">
-        <img src="./SAMPADA.png" width="100%" />
-      </a>
-      <h3>🌿 Sampada Herbs & Spices</h3>
-      Fully responsive e-commerce style website showcasing herbs, spices, and natural wellness products.
-      <br/><br/>
-      <b>Tech:</b> HTML, CSS, JavaScript,Wordpress,Elementor
-      <br/>
-      🔗 <a href="https://sampadastore.shop/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://sampadastore.shop/" target="_blank">Source</a>
-    </td>
- <td width="50%">
-      <a href="#" target="_blank">
-        <img src="./ehr.png" width="100%" />
-      </a>
-      <h3>🏥 Medical Record System (EHR) with Ayush API</h3>
-      Digital health record system to securely manage patient data, with RESTful APIs for appointments, billing, and records — built with a focus on privacy and role-based access.
-      <br/><br/>
-      <b>Tech:</b> React, Node.js, MySQL
-      <br/>
-      🔗 <a href="https://sih-25-namaste.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/SIH25-EHR-SYSTEM" target="_blank">Source</a>
     </td>
   </tr>
 </table>
@@ -166,19 +171,28 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SATYA-PREM&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-PREM&theme=tokyo-night&hide_border=true"/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-PREM&theme=tokyo-night&hide_border=true" />
 </p>
 
-
 ---
+
 ### 🏆 Achievements
 
 - ✅ Qualified **GATE 2026**
 - 🌐 Globally ranked **2629** in **TCS CodeVita Season 13**
-- 🎖️ Completed **AWS Cloud Foundations Training** Badge
+- 🎖️ AWS Academy Graduate: **Cloud, ML & NLP Foundations**
 - 🚀 Delivered **3+ professional websites** for clients
 
 ---
+
+<!-- SNAKE CONTRIBUTION GRAPH (added at the bottom) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SATYA-PREM/SATYA-PREM/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SATYA-PREM/SATYA-PREM/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SATYA-PREM/SATYA-PREM/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SATYA-PREM&color=blue&style=flat" alt="profile views" />
