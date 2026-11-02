@@ -96,8 +96,8 @@
       <br/>   
     🔗 <a href="https://codeforcareer.vercel.app/" target="_blank">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/SATYA-PREM/Code4career" target="_blank">Source</a>
     </td>   
-<td width="50%">
-  <a href="#" target="_blank">
+    <td width="50%">
+  <a href="https://prodai-satya.vercel.app/" target="_blank">
     <img src="./ProdAi.webp" width="100%" />
   </a>
   <h3>🤖 Product Intelligence AI – AI-Powered Product Analytics Platform</h3>
