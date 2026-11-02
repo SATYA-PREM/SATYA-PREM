@@ -87,7 +87,7 @@
   <tr>
     <td width="50%">
       <a href="https://codeforcareer.vercel.app/" target="_blank">
-        <img src="./code4career.png" width="100%" />
+        <img src="./CodeForCareer.webp" width="100%" />
       </a>
       <h3>🎓 E-Learning Platform (CodeForCareer)</h3>
       Full-stack e-learning platform with authentication, course management, and a student dashboard. React frontend integrated with backend APIs and a database, built for a smooth, responsive user experience.
@@ -98,7 +98,7 @@
     </td>   
 <td width="50%">
   <a href="#" target="_blank">
-    <img src="./product-ai.png" width="100%" />
+    <img src="./ProdAi.webp" width="100%" />
   </a>
   <h3>🤖 Product Intelligence AI – AI-Powered Product Analytics Platform</h3>
   An AI-driven platform that automates CSV data ingestion, validation, cleaning, and analysis using intelligent AI agents. Integrates structured data processing with AI-powered insights to support product analysis and data-driven decision-making.
@@ -112,7 +112,7 @@
   <tr>
      <td width="50%">
       <a href="#" target="_blank">
-        <img src="./bireena.png" width="100%" />
+        <img src="./bireena.webp" width="100%" />
       </a>
       <h3>🏥 Bireena Medico</h3>
       A full-stack Hospital Management System designed to streamline healthcare operations with secure patient records, appointment scheduling, doctor management, pharmacy, billing, and administrative dashboards.
